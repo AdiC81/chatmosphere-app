@@ -8,14 +8,14 @@ const InfoBox = styled.div`
   user-select: none;
 	padding: 15px 25px;
 	position: fixed;
-	margin: 10px auto;
+	margin: 20px auto;
 	left: 50%;
 	transform: translateX(-50%);
 	font-size: 0.9rem;
 	font-weight: normal;
 	background-color: #fff;
 	border-radius: 5px;
-	box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+	box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.50);
   z-index: 10001;
 	color: #555;
 	b {
