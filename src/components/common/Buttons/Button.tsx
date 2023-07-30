@@ -150,7 +150,7 @@ export const GhostButton = styled(Button)`
   ${(props) =>
     props.warning &&
     css`
-      color: ${(props) => props.theme.text.warning};
+      color: ${(props) => props.theme.text.primary};
       background: transparent;
       /* border: 2px solid ${(props) => props.theme.button.warning.bg}; */
 
