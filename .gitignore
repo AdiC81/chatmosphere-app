@@ -5,9 +5,11 @@
 /.pnp
 .pnp.js
 
+index.*
+src/components/common/BigHeadline/index.tsx
+
 # testing
 /coverage
-*.tsx
 
 # production
 /build
