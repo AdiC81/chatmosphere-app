@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-/src/BigHeadline
+/src/components/common/BigHeadline
 
 # production
 /build
